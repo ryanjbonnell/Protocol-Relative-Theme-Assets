@@ -21,11 +21,11 @@ Consider the following examples:
 
 **Protocol Relative CSS URL**
 
-`<link rel="stylesheet" href="//example.com/wp-content/themes/twentytwelve/style.css" />`
+`<link href="//example.com/wp-content/themes/twentytwelve/style.css" />`
 
 **Protocol Relative Javascript URL**
 
-`<script type="text/javascript" src="//example.com/wp-includes/js/jquery/jquery.js"></script>`
+`<script src="//example.com/wp-includes/js/jquery/jquery.js"></script>`
 
 More appropriately called a "network-path reference" or "scheme-relative path", a protocol-relative URL helps to avoid common scenarios such as:
 
